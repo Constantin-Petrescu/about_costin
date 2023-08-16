@@ -36,6 +36,11 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
+
+extensions:
+  cms:
+     branch: main
+
 ############################
 ## ADVANCED
 ############################
