@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: mr_robot
+  theme_night: mr_robot
+  font: mr_robot
   font_size: L
 
 # SEO
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Constantin Cezar Petrescu. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

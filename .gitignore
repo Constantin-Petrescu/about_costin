@@ -5,3 +5,8 @@
 resources/
 public/
 jsconfig.json
+
+# Local Netlify folder
+.netlify
+
+*.DS_Store

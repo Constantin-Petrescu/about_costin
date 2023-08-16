@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: featurette
 headless: true
 weight: 20
@@ -18,3 +18,4 @@ feature:
     name: Personal Notebook
     description: For yourself
 ---
+ -->
