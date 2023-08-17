@@ -1,44 +1,20 @@
 ---
 title: Genetic optimisation of C++ applications
 authors:
-  - Constantin Cezar Petrescu
-  - Sam Smith
-  - Rafail Giavrimis
+  - Rafail Giavrimis, 
+  - Alexis Butler, 
+  - Constantin Cezar Petrescu, 
+  - Michail Basios, 
   - Santanu Kumar Dash
-publication_short: _JSS 2023_
-abstract: Developers relax restrictions on a type to reuse methods with other
-  types. While type casts are prevalent, in weakly typed languages such as C++,
-  they are also extremely permissive. Assignments where a source expression is
-  cast into a new type and assigned to a target variable of the new type, can
-  lead to software bugs if performed without care. In this paper, we propose an
-  information-theoretic approach to identify poor implementations of explicit
-  cast operations. Our approach measures accord between the source expression
-  and the target variable using conditional entropy. We collect casts from 34
-  components of the Chromium project, which collectively account for 27MLOC and
-  random-uniformly sample this dataset to create a manually labelled dataset of
-  271 casts. Information-theoretic vetting of these 271 casts achieves a peak
-  precision of 81% and a recall of 90%. We additionally present the findings of
-  an in-depth investigation of notable explicit casts, two of which were fixed
-  in recent releases of the Chromium project.
+publication_short: _ASE 2021_
+abstract: Software developers sometimes use inefficient data structures or library interfaces without considering the potential impact they may have during the runtime of a program. This is due to the significant effort required to research and evaluate possibly more efficient alternatives. Consequently, there is a need for tooling to automate the design space exploration. Our proposed code optimisation solution, called Artemis++, tries to address this issue with automatic exploration and transformation of data structures to optimise software performance. In preliminary testing on three mainstream C++ libraries, we have observed improvements up to 16.09%, 27.90%, and 2.74% for CPU usage, runtime and memory, respectively.
 draft: false
-url_pdf: https://arxiv.org/pdf/2111.01577.pdf
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9678650
 publication_types:
   - "2"
-url_source: https://doi.org/10.1016/j.jss.2023.111693
-publication: Journal of Systems and Software, Volume 202, August 2023, 111693
+publication: 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)
 featured: true
-tags:
-  - C++ type conversions
-  - Languages
-  - Programme analysis
-  - Dual-channel approach
-date: 2023-08-17T04:32:13.489Z
-links: null
-image:
-  caption: Our tool extracts named casts from a C++ codebase and analyses them
-    using information theory.
-  focal_point: ""
-  preview_only: false
-publishDate: 2023-04-6T00:00:00Z
-url_code: https://github.com/Constantin-Petrescu/CastChecker
+
+date: 2021-11-15T00:00:00Z
+publishDate: 2021-11-15T00:00:00Z
 ---

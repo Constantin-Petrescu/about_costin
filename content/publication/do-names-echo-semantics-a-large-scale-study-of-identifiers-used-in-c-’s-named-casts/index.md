@@ -36,12 +36,11 @@ tags:
   - Dual-channel approach
 
 links:
-url_pdf: https://arxiv.org/pdf/2111.01577.pdf
+url_pdf: https://doi.org/10.1016/j.jss.2023.111693
 url_code: https://github.com/Constantin-Petrescu/CastChecker
 # url_dataset: ''
 # url_project: ''
 # url_slides: ''
-url_source: https://doi.org/10.1016/j.jss.2023.111693
 # url_video: 
 
 image:

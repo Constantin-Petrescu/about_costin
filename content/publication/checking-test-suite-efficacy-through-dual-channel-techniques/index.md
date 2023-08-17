@@ -3,7 +3,7 @@ title: Checking Test Suite Efficacy Through Dual-Channel Techniques
 authors:
   - Constantin Cezar Petrescu
   - Sam Smith
-  - Rafail Giavrimis
+  - Alexis Butler
   - Santanu Kumar Dash
 publication_short: _SSRN 2023_
 abstract: Dynamic Call Graphs trace program execution and are used to model
@@ -17,24 +17,22 @@ abstract: Dynamic Call Graphs trace program execution and are used to model
   relevant and irrelevant functions, from ten Python open-source projects. On
   this dataset, our approach achieves a peak precision of 78% and a recall of
   94% in identifying relevant functions missed by tests.
-draft: true
-url_pdf: https://arxiv.org/pdf/2111.01577.pdf
+draft: false
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515283
 publication_types:
   - "2"
-url_source: https://doi.org/10.1016/j.jss.2023.111693
-publication: Journal of Systems and Software
+publication: Journal
 featured: true
 tags:
-  - C++ type conversions
-  - Languages
+  - Dual-channel Research
+  - Software testing
   - Programme analysis
-  - Dual-channel approach
-date: 2023-08-17T04:21:03.686Z
+date: 2023-07-19T04:21:03.686Z
 links: null
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2023-04-6T00:00:00Z
-url_code: https://github.com/Constantin-Petrescu/CastChecker
+publishDate: 2023-07-19T00:00:00Z
+# url_code: https://github.com/Constantin-Petrescu/CastChecker
 ---
