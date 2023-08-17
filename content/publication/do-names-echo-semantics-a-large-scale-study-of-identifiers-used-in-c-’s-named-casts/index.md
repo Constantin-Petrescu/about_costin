@@ -8,6 +8,12 @@ authors:
   - Sam Smith
   - Rafail Giavrimis
   - Santanu Kumar Dash
+
+publication: Journal of Systems and Software, Volume 202, August 2023, 111693
+publication_short: _JSS 2023_
+
+publishDate: "2023-04-6T00:00:00Z"
+
 abstract: Developers relax restrictions on a type to reuse methods with other
   types. While type casts are prevalent, in weakly typed languages such as C++,
   they are also extremely permissive. Assignments where a source expression is
@@ -22,11 +28,28 @@ abstract: Developers relax restrictions on a type to reuse methods with other
   precision of 81% and a recall of 90%. We additionally present the findings of
   an in-depth investigation of notable explicit casts, two of which were fixed
   in recent releases of the Chromium project.
-draft: false
-featured: false
+
+tags:
+  - C++ type conversions
+  - Languages 
+  - Programme analysis
+  - Dual-channel approach
+
+links:
+url_pdf: https://arxiv.org/pdf/2111.01577.pdf
+url_code: https://github.com/Constantin-Petrescu/CastChecker
+# url_dataset: ''
+# url_project: ''
+# url_slides: ''
+url_source: https://doi.org/10.1016/j.jss.2023.111693
+# url_video: 
+
 image:
-  filename: featured
-  focal_point: Smart
+  caption: "Our tool extracts named casts from a C++ codebase and analyses them using information theory."
+  focal_point: ""
   preview_only: false
-date: 2023-08-17T03:27:28.197Z
+
+draft: false
+featured: true
+date: "2023-04-06T03:27:28.197Z"
 ---
