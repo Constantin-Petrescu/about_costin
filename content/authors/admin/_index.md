@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Looking for next exciting oportunity
+role: Looking for the next exciting oportunity
 
 # Organizations/Affiliations
 # organizations:
