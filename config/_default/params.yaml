@@ -17,11 +17,11 @@ extensions:
 
 marketing:
   seo:
-    site_type: Project
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    site_type: Person
+    local_business_type: 'research'
+    org_name: 'Constantin Cezar Petrescu - Costin'
+    description: 'Researcher and software engineer'
+    twitter: 'petrescu_costin'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
