@@ -6,14 +6,14 @@
 # Appearance
 
 appearance:
-  theme_day: mr_robot
-  theme_night: mr_robot
-  font: mr_robot
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
   font_size: L
 
-plugins_css:
-    - custom
-# SEO
+extensions:
+  academicons:
+    enable: true
 
 marketing:
   seo:
