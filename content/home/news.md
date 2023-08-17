@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Talk"
-  title = "Presenting the [Do names echo semantics? A large-scale study of identifiers used in C++'s named casts](https://doi.org/10.1016/j.jss.2023.111693) as a Journal-First Paper at [ESEM](https://conf.researchr.org/details/esem-2023/esem-2023-journal-first/13/Do-names-echo-semantics-A-large-scale-study-of-identifiers-used-in-C-s-named-casts)! See you there!"
+  title = "Presenting the [Do names echo semantics? A large-scale study of identifiers used in C++'s named casts](https://doi.org/10.1016/j.jss.2023.111693) as a [Journal-First Paper](https://conf.researchr.org/details/esem-2023/esem-2023-journal-first/13/Do-names-echo-semantics-A-large-scale-study-of-identifiers-used-in-C-s-named-casts) at [ESEM](https://conf.researchr.org/home/esem-2023) ! See you there!"
   date_start = "2023-10-26"
 
 
