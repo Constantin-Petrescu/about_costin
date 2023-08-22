@@ -33,7 +33,7 @@ education:
     institution: University of Surrey
     year: 2023
   - course: MSc in Information Security
-    institution: University of Cambridge
+    institution: University of Royal Holloway
     year: 2019
   - course: BSc in Computer Science
     institution: University College London
