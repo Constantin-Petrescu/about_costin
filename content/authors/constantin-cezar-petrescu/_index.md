@@ -1,7 +1,7 @@
 ---
 title: Constantin Cezar Petrescu
 role: Looking for next exciting oportunity
-avatar_filename: b7f75e6b-0788-4f80-a6c4-e2e3d399631c_1_201_a.jpeg
+avatar_filename: profile.jpg
 interests: []
 social:
   - display:
