@@ -23,10 +23,21 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2023-08-01"
+  date_start = "2024-04-01"
   date_end = ""
   description = """
   Looking for the next exciting oportunity.
+  """
+
+[[experience]]
+  title = "Freelancer"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2023-10-01"
+  date_end = "2024-04-01"
+  description = """
+  Developed sentence transformers and LLM models for semantic similarity.
   """
 
 [[experience]]
