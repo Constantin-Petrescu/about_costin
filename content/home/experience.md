@@ -19,14 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = ""
-  company = ""
-  company_url = ""
+  title = "AI/ML Engineer"
+  company = "Hurdle"
+  company_url = "https://hurdle.bio/"
+  company_logo: org-hurdle
   location = ""
-  date_start = "2024-04-01"
+  date_start = "2024-05-01"
   date_end = ""
   description = """
-  Looking for the next exciting oportunity.
+  AI/ML Engineer
   """
 
 [[experience]]
@@ -35,7 +36,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2023-10-01"
-  date_end = "2024-04-01"
+  date_end = "2024-05-01"
   description = """
   Developed sentence transformers and LLM models for semantic similarity.
   """
@@ -44,6 +45,7 @@ date_format = "Jan 2006"
   title = "Supervisor and Teacher Assistant"
   company = "University of Surrey"
   company_url = "https://www.surrey.ac.uk/"
+  company_logo: org-surrey
   date_start = "2019-10-01"
   date_end = "2023-06-01"
   description = """
