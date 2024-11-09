@@ -5,6 +5,7 @@ authors:
   - Sam Smith
   - Alexis Butler
   - Santanu Kumar Dash
+publication: International Conference on Testing Software and Systems
 publication_short: _ICTSS 2024_
 abstract: Dynamic Call Graphs trace program execution and are used
 to model function coverage. They help identify which function calls are
@@ -21,14 +22,13 @@ missed by tests.
 draft: false
 publication_types:
   - "2"
-publication: International Conference on Testing Software and Systems
 featured: true
 tags:
   - Dual-channel Research
   - Software testing
   - Programme analysis
 date: 2024-11-01T04:21:03.686Z
-links: null
+links: 
 image:
   caption: ""
   focal_point: ""
