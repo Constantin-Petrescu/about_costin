@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   title = "AI/ML Engineer"
   company = "Hurdle"
   company_url = "https://hurdle.bio/"
-  company_logo = org-hurdle
+  company_logo = "org-hurdle"
   location = ""
   date_start = "2024-05-01"
   date_end = ""
@@ -45,11 +45,11 @@ date_format = "Jan 2006"
   title = "Supervisor and Teacher Assistant"
   company = "University of Surrey"
   company_url = "https://www.surrey.ac.uk/"
-  company_logo = org-surrey
+  company_logo = "org-surrey"
   date_start = "2019-10-01"
   date_end = "2023-06-01"
   description = """
-  Supervisorof Final Year Projects for BSc and MSc, and Research Summer Internships.
+  Supervisor of Final Year Projects for BSc and MSc, and Research Summer Internships.
   Teacher Assistant for COM2040 (Further Programming Paradigms) and COM1029 (Software Engineering).
   """
 
