@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_start = "2024-05-01"
   date_end = ""
   description = """
-  AI/ML Engineer
+  - Designed the architecture, developed and deployed AI solutions to address health challenges
+  - Trained models to predict early detection of diseases based on patient electronic health records
   """
 
 [[experience]]
@@ -58,7 +59,7 @@ date_format = "Jan 2006"
   title = "Research Intern"
   company = "UCL"
   company_url = "https://www.ucl.ac.uk/"
-  icon= "custom/ucl"
+  company_logo = "custom/ucl"
   location = "London, UK"
   date_start = "2018-06-01"
   date_end = "2019-03-01"
