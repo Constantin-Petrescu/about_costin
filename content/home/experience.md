@@ -37,7 +37,10 @@ date_format = "Jan 2006"
   date_start = "2023-10-01"
   date_end = "2024-05-01"
   description = """
-  Developed sentence transformers and LLM models for semantic similarity.
+- Trained and deployed LLM models (Llama, Mixtral) for diverse chatbot applications
+- Implemented a multi-model LLM architecture, optimising app performance for specific queries
+- Developed and deployed transformer models to detect hateful comments for chat moderation
+- Developed sentence transformers and LLM models for semantic similarity.
   """
 
 [[experience]]
@@ -47,19 +50,21 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2023-06-01"
   description = """
-  Supervisor of Final Year Projects for BSc and MSc, and Research Summer Internships.
-  Teacher Assistant for COM2040 (Further Programming Paradigms) and COM1029 (Software Engineering).
+  - Supervisor of Final Year Projects for BSc and MSc, and Research Summer Internships.
+  - Teacher Assistant for COM2040 (Further Programming Paradigms) and COM1029 (Software Engineering).
   """
 
 [[experience]]
   title = "Research Intern"
   company = "UCL"
   company_url = "https://www.ucl.ac.uk/"
+  icon= "custom/ucl"
   location = "London, UK"
   date_start = "2018-06-01"
   date_end = "2019-03-01"
   description = """
-  Developed a neural network model to predict multiple tokens to improve code completion for C/C++; Data gathering was done through NLP by building a Clang plugin to process open-source projects.
+  - Developed a neural network model to predict multiple tokens to improve code completion for C/C++; 
+  - Data gathering was done through NLP by building a Clang plugin to process open-source projects.
   """
 
 [[experience]]
