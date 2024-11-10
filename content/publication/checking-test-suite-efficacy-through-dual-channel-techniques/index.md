@@ -1,12 +1,18 @@
 ---
 title: Checking Test Suite Efficacy Through Dual-Channel Techniques
+publication_types:
+  - "2"
 authors:
   - Constantin Cezar Petrescu
   - Sam Smith
   - Alexis Butler
   - Santanu Kumar Dash
+
 publication: International Conference on Testing Software and Systems
 publication_short: _ICTSS 2024_
+
+publishDate: "2024-11-01T00:00:00Z"
+
 abstract: Dynamic Call Graphs trace program execution and are used
 to model function coverage. They help identify which function calls are
 missed but do not offer insights on whether those calls are important
@@ -19,21 +25,23 @@ calls, containing a mix of relevant and irrelevant functions, from ten
 Python open-source projects. On this dataset, our approach achieves a
 peak precision of 78% and a recall of 94% in identifying relevant functions
 missed by tests.
-draft: false
-publication_types:
-  - "2"
-featured: true
+
 tags:
   - Dual-channel Research
   - Software testing
   - Programme analysis
-date: 2024-11-01T04:21:03.686Z
-links: 
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-publishDate: 2024-11-01T00:00:00Z
+  
+links:
 url_pdf: https://petrescu.co.uk/files/FindIT.pdf
 url_code: https://github.com/Constantin-Petrescu/CastChecker
+
+image:
+  caption: " Our tool’s software architecture to identify relevant missed methods by
+integration tests."
+  focal_point: ""
+  preview_only: false
+
+draft: false
+featured: true
+date: "2024-11-01T04:21:03.686Z"
 ---
