@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Looking for the next exciting oportunity
+role: AI/ML Engineer
 
 # Organizations/Affiliations
 # organizations:
@@ -18,12 +18,12 @@ role: Looking for the next exciting oportunity
 #   url: "https://url/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Highly motivated researcher in program analysis, machine learning, and information security. I recently submitted my PhD thesis on Dual-channel Program Analysis. Used the code and natural language relationship to predict multiple tokens for code completion, vet type conversions, and check the test suite efficacy. I am now looking at research scientist/software engineer roles to apply my expertise and contribute to innovative companies.
+bio: Highly motivated researcher and engineer with expertise in machine learning, program analysis, and information security. I completed a PhD in Dual-channel Program Analysis, leveraging the relationship between code and natural language to enhance code completion, vet type conversions, and assess test suite efficacy. Currently, I am working as an AI/ML Engineer at Hurdle[Hurdle](https://hurdle.bio/), where I develop innovative AI solutions to address health challenges, including the early detection of diseases.
 
 interests:
-- Program Analysis
-- Dual-channel Research
 - Machine Learning
+- Dual-channel Research
+- Program Analysis
 - Information Security
 
 
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Surrey
-    year: 2023
+    year: 2024
   - course: MSc in Information Security
     institution: University of Royal Holloway
     year: 2019
@@ -73,4 +73,4 @@ email: ""
 ---
 
 
-Highly motivated researcher in program analysis, machine learning, and information security. I recently submitted my PhD thesis on Dual-channel Program Analysis. Used the code and natural language relationship to predict multiple tokens for code completion, vet type conversions, and check the test suite efficacy. I am now looking at research scientist/software engineer roles to apply my expertise and contribute to innovative companies.
+Highly motivated researcher and engineer with expertise in machine learning, program analysis, and information security. I completed a PhD in Dual-channel Program Analysis, leveraging the relationship between code and natural language to enhance code completion, vet type conversions, and assess test suite efficacy. Currently, I am working as an AI/ML Engineer at Hurdle, where I develop innovative AI solutions to address health challenges, including the early detection of diseases.
