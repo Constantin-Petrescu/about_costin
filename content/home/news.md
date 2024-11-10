@@ -25,7 +25,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "New Position"
-  title = "Started working at Hurdle as an AI/ML Engineer!"
+  title = "Started working at [Hurdle](https://hurdle.bio/) as an AI/ML Engineer!"
   date_start = "2024-05-01"
 
 [[item]]

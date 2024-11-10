@@ -18,7 +18,7 @@ role: AI/ML Engineer
 #   url: "https://url/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Highly motivated researcher and engineer with expertise in machine learning, program analysis, and information security. I completed a PhD in Dual-channel Program Analysis, leveraging the relationship between code and natural language to enhance code completion, vet type conversions, and assess test suite efficacy. Currently, I am working as an AI/ML Engineer at Hurdle[Hurdle](https://hurdle.bio/), where I develop innovative AI solutions to address health challenges, including the early detection of diseases.
+bio: Highly motivated researcher and engineer with expertise in machine learning, program analysis, and information security. I completed a PhD in Dual-channel Program Analysis, leveraging the relationship between code and natural language to enhance code completion, vet type conversions, and assess test suite efficacy. Currently, I am working as an AI/ML Engineer at [Hurdle](https://hurdle.bio/), where I develop innovative AI solutions to address health challenges, including the early detection of diseases.
 
 interests:
 - Machine Learning
@@ -73,4 +73,4 @@ email: ""
 ---
 
 
-Highly motivated researcher and engineer with expertise in machine learning, program analysis, and information security. I completed a PhD in Dual-channel Program Analysis, leveraging the relationship between code and natural language to enhance code completion, vet type conversions, and assess test suite efficacy. Currently, I am working as an AI/ML Engineer at Hurdle, where I develop innovative AI solutions to address health challenges, including the early detection of diseases.
+Highly motivated researcher and engineer with expertise in machine learning, program analysis, and information security. I completed a PhD in Dual-channel Program Analysis, leveraging the relationship between code and natural language to enhance code completion, vet type conversions, and assess test suite efficacy. Currently, I am working as an AI/ML Engineer at [Hurdle](https://hurdle.bio/), where I develop innovative AI solutions to address health challenges, including the early detection of diseases.
