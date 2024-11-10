@@ -30,8 +30,7 @@ date_format = "Jan 2006"
   <img src="https://petrescu.co.uk/img/hurdle.jpeg" alt="Hurdle logo" style="width: 100px; height: auto; margin-right: 15px;" />
   <div>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>Designed the architecture, developed and deployed AI solutions to address health challenges.</li>
-      <li>Trained models to predict early detection of diseases based on patient electronic health records.</li>
+      <li>Developing an AI-powered Health Insights Engine for healthcare companies to autonomously review personalised health risk scores for patients and prevent diseases.</li>
     </ul>
   </div>
 </div>
