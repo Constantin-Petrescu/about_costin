@@ -56,14 +56,14 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Intern"
+  title = """<img src="https://petrescu.co.uk/files/ucl.jpeg" alt="Hurdle logo" style="width: 100px; height: auto;" />
+  Research Intern"""
   company = "UCL"
   company_url = "https://www.ucl.ac.uk/"
   location = "London, UK"
   date_start = "2018-06-01"
   date_end = "2019-03-01"
   description = """
-  <img src="https://petrescu.co.uk/files/ucl.jpeg" alt="Hurdle logo" style="width: 100px; height: auto;" />
   - Developed a neural network model to predict multiple tokens to improve code completion for C/C++; 
   - Data gathering was done through NLP by building a Clang plugin to process open-source projects.
   """
